@@ -1,5 +1,5 @@
 Name : Aditi Parikh 
-SCU ID: W1550758.
+SCU ID: W1550758
 
 
 
